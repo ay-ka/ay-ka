@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aidin Kazempour</h1>
 <h3 align="center">A passionate AI researcher & Programmer</h3>
 
-- 🔭 I’m currently working on **QeMIX (My Thesis Project)**
+- 🔭 I’m currently working on **QeMIX**
 
 - 🌱 I’m currently learning **SQL, Git**
 
