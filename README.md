@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL, Git**
 
-- 👯 I’m looking to collaborate on **AI projects especially Reinforcement learning field**
+- 👯 I’m looking to collaborate on **Reinforcement learning**
 
 - 👀 I’m currently improving **Python & Front-end Web Development skills**
 
