@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aidin Kazempour</h1>
 <h3 align="center">A passionate AI researcher & Programmer</h3>
 
-- 🔭 I’m currently working on **QeMIX**
+- 🔭 I’m currently working on **Application of Attention in Coordinating agents in multi-agent Reinforcement Learning algorithms**
 
-- 🌱 I’m currently learning **SQL, Git**
+- 🌱 I’m currently improving my knowledge in **Math regarding ML and RL algorithms.**
 
-- 👯 I’m looking to collaborate on **Reinforcement learning**
-
-- 👀 I’m currently improving **Python & Front-end Web Development skills**
+- 👀 I’m currently improving **Python & Data Analyze skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ay-ka](https://github.com/ay-ka)
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **Aydinkazempour7@gmail.com**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/aidin-kazempour-319b5630b/) or [Email](mailto:ak2163@kent.ac.uk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
