@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aidin Kazempour</h1>
 <h3 align="center">A passionate AI researcher & Programmer</h3>
 
-- 🔭 I’m currently working on **Application of Attention in Coordinating agents in multi-agent Reinforcement Learning algorithms**
+- 🔭 I’m currently working on **Application of Attention in multi-agent Reinforcement Learning algorithms**
 
 - 🌱 I’m currently improving my knowledge in **Math regarding ML and RL algorithms.**
 
