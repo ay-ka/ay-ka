@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aidin Kazempour</h1>
 <h3 align="center">A passionate AI researcher & Programmer</h3>
 
-- 🔭 I’m currently working on **Application of Attention in multi-agent Reinforcement Learning algorithms**
-
-- 🌱 I’m currently improving my knowledge in **Math regarding ML and RL algorithms.**
-
-- 👀 I’m currently improving **Python & Data Analyze skills**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ay-ka](https://github.com/ay-ka)
-
-- :speech_balloon: Ask me about **Python**, **Reinforcement Learning & Multi-Agent Reinforcement Learning**
 
 - 📫 How to reach me [LinkdIn](https://www.linkedin.com/in/aidin-kazempour-319b5630b/), [University Email](mailto:ak2163@kent.ac.uk), or [Personal Email](mailto:aydinkazempour7@gmail.com)
 
