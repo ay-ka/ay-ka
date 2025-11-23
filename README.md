@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ay-ka](https://github.com/ay-ka)
 
-- 📫 How to reach me [LinkdIn](https://www.linkedin.com/in/aidin-kazempour-319b5630b/), [University Email](mailto:ak2163@kent.ac.uk), or [Personal Email](mailto:aydinkazempour7@gmail.com)
+- 📫 You can reach me on [LinkdIn](https://www.linkedin.com/in/aidin-kazempour-319b5630b/), [University Email](mailto:ak2163@kent.ac.uk), or [Personal Email](mailto:aydinkazempour7@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
