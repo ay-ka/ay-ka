@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aidin Kazempour</h1>
 <h3 align="center">A passionate AI researcher & Programmer</h3>
 
-<h4 align='left'>  I am a        </h4>
+<h5 align='left'>  I am a third-year CS PhD student at <a href='https://www.kent.ac.uk/'>University of Kent (United Kingdom)</a> under supervision of </h5>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ay-ka](https://github.com/ay-ka)
 
