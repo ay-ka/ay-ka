@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/aidin-kazempour-319b5630b/) or [Email](mailto:ak2163@kent.ac.uk)
+- 📫 How to reach me [LinkdIn](https://www.linkedin.com/in/aidin-kazempour-319b5630b/) or [Email](mailto:ak2163@kent.ac.uk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
